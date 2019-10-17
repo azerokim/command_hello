@@ -1,4 +1,4 @@
-// For command line git Chapter3 Local repository modification
+// For command line git Chapter3 online repository modification
 print("Hello world")
 print("Tell your world")
 print("Tell his world")
